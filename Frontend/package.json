@@ -1,0 +1,14 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Google Oauth ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Pranav Kamble",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
